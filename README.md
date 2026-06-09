@@ -55,6 +55,8 @@ A hands-on session on using AI tools to do the core PO work faster and better:
 
 Have a resource that belongs here? Open an issue or a pull request. Keep contributions practical, clearly attributed, and genuinely useful to people learning the role.
 
+Thanks for your contributions!
+
 ## 📄 License
 
 Licensed under [GPL-3.0](./LICENSE).
