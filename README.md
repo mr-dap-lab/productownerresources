@@ -63,5 +63,5 @@ Licensed under [GPL-3.0](./LICENSE).
 
 ---
 
-*Maintained by [Diego Avella](https://github.com/mr-dap-lab) · Certified Scrum Master & Product Owner.*
+*Maintained by [Diego Avella](https://github.com/mr-dap-lab) ·.*
 
