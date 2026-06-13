@@ -12,9 +12,9 @@ Whether you're stepping into the role for the first time or sharpening your craf
 
 | File | Description |
 |------|-------------|
-| 🖥️ [`Workshop1-The-Modern-Product-Owner.pptx`](./Workshop1-The-Modern-Product-Owner.pptx) | The full workshop deck — what the modern PO role really looks like beyond the textbook definition |
+| 🖥️ [`Workshop1-The-Modern-Product-Owner.pptx`](./Workshop1-The-Modern-Product-Owner.pptx) | The full workshop deck — what the modern PO role really looks like beyond the textbook definition | (To be fixed)
 | 📖 [`Workshop1-Glossary.pdf`](./Workshop1-Glossary.pdf) | A reference glossary of the key terms every Product Owner should know |
-| 📝 [`Workshop1-handout.md.docx`](./Workshop1-handout.md.docx) | The companion handout to work through alongside the session |
+| 📝 [`Workshop1-handout.md.docx`](./Workshop1-handout.md.docx) | The companion handout to work through alongside the session | (To be fixed)
 
 ---
 
